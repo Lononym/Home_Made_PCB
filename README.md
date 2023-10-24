@@ -49,6 +49,12 @@ Mise dans le perchlo pendant 8 minutes chauffé à 49°C au bain marie. Le perch
 Résultat très satisfaisant. Le CI est parfaitement délimité.
 
 
+| ![illustration_calque](readme/09_03_2022/illustration_calque.jpg) | ![PCB_dans_perchlo](readme/09_03_2022/PCB_dans_perchlo.jpg) | ![PCB_finaux](readme/09_03_2022/PCB_finaux.jpg) |
+| ------------------------------------- | --------------------------------------- |--------------------------------------------- |
+| illustration_calque                  | PCB_dans_perchlo                    | PCB_finaux                    |
+
+
+
 ### Date : Jeudi 12 mai 2022
 
 impression sur papier transparent et imprimante laser (avec Yann Mahé)
