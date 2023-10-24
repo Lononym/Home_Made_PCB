@@ -1,12 +1,6 @@
-# Journal de fabrication de PCB
+Date : Jeudi 03 mars 2022
 
-## Objectif
 
-Mettre à jour ce fichier à chaque tentative de fabrication de PCB. Décrire les modifications au protocole apportées, les observations faites, les résultats, les choses potentielles à améliorer. Si possible mettre des photos.
-
-## Journal
-
-### Date : Jeudi 03 mars 2022
 
 Fait :
 
@@ -16,6 +10,8 @@ temps dans la solution de révélation (au sodium) : 15 minutes
 Perclo pas frais mais pas vert donc doit fonctionner
 echecs -> au bout de 10 min aucun changement sur le PCB sauf là où le verni à été rayé auparavant.
 
+
+
 A faire : 
 
 prévoir des gants 
@@ -24,7 +20,7 @@ changer la solution de révélation
 
 
 
-### Date : Lundi 07 mars 2022
+Date : Lundi 07 mars 2022
 
 impression sur papier semi-transparent
 superpisition de deux impressions pour augmenter le contraste
@@ -37,7 +33,7 @@ Une fois dans le perchlo, on y observe un manque d'agréssivité -> Perchlo trop
 
 
 
-### Date : Mercredi 09 mars 2022
+Date : Mercredi 09 mars 2022
 
 
 impression sur papier transparent et imprimante laser (avec Yann Mahé)
@@ -49,7 +45,7 @@ Mise dans le perchlo pendant 8 minutes chauffé à 49°C au bain marie. Le perch
 Résultat très satisfaisant. Le CI est parfaitement délimité.
 
 
-### Date : Jeudi 12 mai 2022
+Date : Jeudi 12 mai 2022
 
 impression sur papier transparent et imprimante laser (avec Yann Mahé)
 PAS de superposition de deux impressions
@@ -59,7 +55,7 @@ Solution de révélation : 5g de et 100ml d'eau.
 
 
 
-### Date mercredi 18 octobre 2023
+Date mercredi 18 octobre 2023
 
 impression sur papier transparant et imprimante jet d'encre (chez dudu) imprimante mode monochrome, papier glacé, très bonne qualité
 superposition de deux calques
@@ -67,4 +63,5 @@ temps dans l'insoleuse UV : 10 min
 Note : à la sortie, on distingue les motifs du PBCs et des traces violettes sur le cuivre
 
 temps dans la solution de révélation : 4 min
+
 
