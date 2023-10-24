@@ -68,3 +68,6 @@ Note : à la sortie, on distingue les motifs du PBCs et des traces violettes sur
 
 temps dans la solution de révélation : 4 min
 
+| ![PCB_apres_insolation](readme/18_10_2023/PCB_apres_insolation.jpg) | ![PCB_apres_revelation](readme/18_10_2023/PCB_apres_revelation.jpg) |
+| ------------------------------------- | ------------------------------------------------------------- |
+| PCB_apres_insolation                  | PCB_apres_revelation                                            |
