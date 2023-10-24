@@ -74,6 +74,17 @@ Note : à la sortie, on distingue les motifs du PBCs et des traces violettes sur
 
 temps dans la solution de révélation : 4 min
 
-| ![PCB_apres_insolation](readme/18_10_2023/PCB_apres_insolation.jpg) | ![PCB_apres_revelation](readme/18_10_2023/PCB_apres_revelation.jpg) |
-| ------------------------------------- | ------------------------------------------------------------- |
-| PCB_apres_insolation                  | PCB_apres_revelation                                            |
+
+
+Une fois dans le perchlo, on observe que les pistes ont commencées à ête "manger". Cela serait dû à une sur exposition aux UV (trop longtemps dans l'insoleuse). La raison de ce temps trop longtemps dans l'insoleuse est dû au fait que le calque ne présente pas assez de contraste (entre les pistes et les endroits où il n'y a rien). 
+
+Une solution serait de laisser moins longtemps dans l'insoleuse et/ou d'utiliser une imprimante laser plutôt qu'une imprimante jet d'encre.
+
+
+
+
+| ![PCB_apres_insolation](readme/18_10_2023/PCB_apres_insolation.jpg) | ![PCB_apres_revelation](readme/18_10_2023/PCB_apres_revelation.jpg) | ![PCB_apres_perchlo](readme/18_10_2023/PCB_apres_perchlo.jpg) |
+| ------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| PCB_apres_insolation                  | PCB_apres_revelation    |   PCB_apres_perchlo             |
+
+
