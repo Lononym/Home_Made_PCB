@@ -65,7 +65,7 @@ Solution de révélation : 5g de et 100ml d'eau.
 
 
 
-### Date mercredi 18 octobre 2023
+### Date 18 octobre 2023
 
 impression sur papier transparant et imprimante jet d'encre (chez dudu) imprimante mode monochrome, papier glacé, très bonne qualité
 superposition de deux calques
@@ -87,4 +87,19 @@ Une solution serait de laisser moins longtemps dans l'insoleuse et/ou d'utiliser
 | ------------------------------------- | ----------------------------------------- | ----------------------------------------- |
 | PCB_apres_insolation                  | PCB_apres_revelation    |   PCB_apres_perchlo             |
 
+### Date 25 octobre 2023
 
+**Protocole**
+temps insoleuse : 7 min
+temps revelation : 3-4 min
+temps perchlo : 8 min
+
+**Photos**
+| ![PCB_apres_revelation](readme/25_10_2023/PCB_apres_revelation.jpg) | ![PCB_apres_perchlo](readme/25_10_2023/PCB_apres_perchlo.jpg) | ![PCB_apres_perchlo_back](readme/25_10_2023/PCB_apres_perchlo_back.jpg) |
+| ------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| PCB_apres_insolation                  | PCB_apres_revelation    |   PCB_apres_perchlo             |
+
+
+**Commentaires**
+Le résultat final à montrer que la résine était encore présente et donc que le perchlo n'a pas "manger" le cuivre.
+Laisser plus longtemps dans l'insoleuse UV et/ou changer la solution de révelation
